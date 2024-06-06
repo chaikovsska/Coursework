@@ -1,0 +1,4 @@
+INSERT INTO trains.trains (name, stationArrival, stationDeparture, dateDeparture, dateArrival) VALUES ('MIL-TAL34', 'Tallin', 'Milan', '2024-04-23T16:13:00', '2024-04-24T16:13:00');
+INSERT INTO trains.trains (name, stationArrival, stationDeparture, dateDeparture, dateArrival) VALUES ('RO-PAR12', 'Rome', 'Paris', '2024-04-24T12:00:00', '2024-04-24T16:13:00');
+INSERT INTO trains.trains (name, stationArrival, stationDeparture, dateDeparture, dateArrival) VALUES ('BARC-VAL03', 'Barcelona', 'Valencia', '2024-04-25T16:13:00', '2024-04-25T19:13:00');
+INSERT INTO trains.trains (name, stationArrival, stationDeparture, dateDeparture, dateArrival) VALUES ('MAD-LYON34', 'Madrid', 'Lyon', '2024-04-22T15:15:00', '2024-04-24T17:15:00');
